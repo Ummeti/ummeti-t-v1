@@ -8,6 +8,7 @@ import { getLocale, getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import { getLangDir } from 'rtl-detect';
+import UnderDevelopmentPopup from '@/components/ui/UnderDevelopmentPopup';
 
 const cairo = Tajawal({
   weight: ['200', '300', '400', '500', '700', '800', '900'],
@@ -66,6 +67,7 @@ export default async function LocaleLayout({ children }) {
           <Header />
           {children}
           <Footer />
+          <UnderDevelopmentPopup />
         </NextIntlClientProvider>
       </body>
     </html>

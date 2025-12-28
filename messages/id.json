@@ -5,6 +5,11 @@
       "description": "Ummeti Foundation adalah organisasi nirlaba Islam terpercaya yang berdedikasi untuk mengumpulkan Zakat, Sadaqah, dan donasi guna mendukung kaum miskin, anak yatim, dan mereka yang mengalami krisis. Bergabunglah dengan kami dalam menunaikan kewajiban Islam Anda melalui amal, bantuan kemanusiaan, dan proyek bantuan berkelanjutan di seluruh dunia. Donasi sekarang!"
     }
   },
+  "UnderDevelopment": {
+    "title": "Situs Web Sedang Dalam Pengembangan",
+    "message": "Pemberitahuan: Ini adalah versi lama dari situs web. Situs web yang benar-benar baru sedang dikembangkan untuk melayani Anda lebih baik.",
+    "close": "Mengerti"
+  },
   "Header": {
     "home": "Beranda",
     "about": "Tentang",

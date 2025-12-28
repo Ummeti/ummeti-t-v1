@@ -5,6 +5,11 @@
       "description": "Ummeti Vakfı, zekat, sadaka ve bağışları toplayarak yoksullara, yetimlere ve kriz içinde olanlara destek olmayı amaçlayan güvenilir bir İslami yardım kuruluşudur. Hayır işleri, insani yardım ve dünya çapında sürdürülebilir yardım projeleriyle İslami görevinizi yerine getirmemize katılın. Bugün bağış yapın!"
     }
   },
+  "UnderDevelopment": {
+    "title": "Web Sitesi Yapım Aşamasında",
+    "message": "Uyarı: Bu web sitesinin eski sürümüdür. Size daha iyi hizmet verebilmek için tamamen yeni bir web sitesi geliştirilmektedir.",
+    "close": "Anladım"
+  },
   "Header": {
     "home": "Ana Sayfa",
     "about": "Hakkımızda",

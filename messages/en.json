@@ -5,6 +5,11 @@
       "description": "Ummeti Foundation is a trusted Islamic nonprofit dedicated to collecting Zakat, Sadaqah, and donations to support the poor, orphans, and those in crisis. Join us in fulfilling your Islamic duty through charity, humanitarian aid, and sustainable relief projects worldwide. Donate today!"
     }
   },
+  "UnderDevelopment": {
+    "title": "Website Under Development",
+    "message": "Notice: This is the old version of the website. A completely new website is currently being developed to serve you better.",
+    "close": "Got it"
+  },
   "Header": {
     "home": "Home",
     "about": "About",
